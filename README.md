@@ -12,3 +12,9 @@ _Ralph the Beagle is now unhappy he is the same size as the rest of the dogs_
 <img width="571" alt="image" src="https://user-images.githubusercontent.com/109162427/184857665-9516e95d-a69e-4d0f-85fd-fb770575a516.png">
 
 _Nothing's more sexy than the summary of our model_
+
+<img width="1096" alt="image" src="https://user-images.githubusercontent.com/109162427/184857879-1aeba088-0a1c-4a93-acbf-10129ce4663b.png">
+
+_Rare pictures of the model training_
+
+We can now distinguish between cats and dogs thanks to out handy neural network! Now we don't need to ask our friends which is which :)
