@@ -5,3 +5,6 @@ Uses a Convolutional Neural Network
 
 _"Who's a good boy?"; Rowdy sure is, and he's ready to get squished and stuffed into a neural network_
 
+<img width="256" alt="image" src="https://user-images.githubusercontent.com/109162427/184857439-ee968087-3058-4eb0-96d0-7c6eff77448a.png">
+
+_Ralph the Beagle is now unhappy he is the same size as the rest of the dogs_
